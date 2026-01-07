@@ -1,0 +1,26 @@
+<svg width="350" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background & Phone Frame -->
+  <rect width="350" height="250" rx="20" ry="20" fill="#f9f9f9" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Top Bar -->
+  <text x="10" y="20" font-family="Arial, sans-serif" font-size="12" fill="#333">PM 05:18</text>
+  <text x="325" y="20" font-family="Arial, sans-serif" font-size="12" fill="#333" text-anchor="end">LTE 📶 🔋43%</text>
+
+  <!-- Title -->
+  <text x="175" y="55" font-family="'Comic Sans MS', cursive, sans-serif" font-size="18" fill="deeppink" text-anchor="middle">✨💖 Princess Yehee's Diary 💖✨</text>
+  
+  <!-- Divider -->
+  <line x1="20" y1="75" x2="330" y2="75" stroke="pink" stroke-width="1" stroke-dasharray="5,5"/>
+
+  <!-- Content: Mood -->
+  <text x="30" y="100" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#555">👑 오늘의 기분</text>
+  <text x="40" y="120" font-family="Arial, sans-serif" font-size="13" fill="#777">ㄴ 터질 듯이 긴장됨..😱</text>
+
+  <!-- Content: Thoughts -->
+  <text x="30" y="150" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#555">🧠 지금 예희 머릿속</text>
+  <text x="40" y="170" font-family="Arial, sans-serif" font-size="13" fill="#777">ㄴ 뭐라고 말해야 하지? 🥺</text>
+  <text x="40" y="188" font-family="Arial, sans-serif" font-size="13" fill="#777">ㄴ 싫어하시면 어떡하지...ㅠㅠ</text>
+  
+  <!-- Bottom Decoration -->
+  <text x="175" y="230" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">૮ ˶• ﻌ •˶ ა</text>
+</svg>
